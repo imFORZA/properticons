@@ -1,5 +1,5 @@
 #PROPERTICONS
-============
+
 A custom font used for real estate websites.
 
 ## Bugs and feature requests
