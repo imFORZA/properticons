@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "properticons",
+  "repo": "properticons/properticons",
+  "files": {
+    "include": ["css/*", "fonts/*", "js/*"]
+  }
+}
