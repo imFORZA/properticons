@@ -3,6 +3,6 @@
   "name": "properticons",
   "repo": "properticons/properticons",
   "files": {
-    "include": ["css/*", "fonts/*", "js/*"]
+    "include": ["css/*.css", "fonts/*", "js/*js"]
   }
 }
